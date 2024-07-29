@@ -1,2 +1,8 @@
-# todo-react
-The Todo application is a modern task management tool built with React, designed to help users efficiently organize their daily activities. It features an intuitive interface that allows users to easily add, edit, and delete tasks, track their completion status, and prioritize important tasks. Utilizing Material-UI.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
